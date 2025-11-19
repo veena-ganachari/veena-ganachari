@@ -41,7 +41,7 @@ Simple static homepage UI clone
 ---
 
 ## 📫 Contact  
-- **Email:** your-email@example.com  
+- **Email:** veenaganachari51@gmail.com 
 - **GitHub:** https://github.com/veena-ganachari  
 
 ---
